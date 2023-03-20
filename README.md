@@ -1,0 +1,2 @@
+# student
+stock management system
